@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - H. Mohammed Umar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .container {
+            width: 70%;
+            margin: 0 auto;
+        }
+        .section-title {
+            background-color: #4CAF50;
+            color: white;
+            padding: 5px;
+        }
+        .section-content {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .info {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>H. Mohammed Umar</h1>
+        <p class="info">Born on: 09/07/2004 | Born in: Oman</p>
+        <p class="info">Email: [Your Email] | Phone: [Your Phone]</p>
+
+        <div class="section-title">
+            <h2>Objective</h2>
+        </div>
+        <div class="section-content">
+            <p>A passionate and dedicated BCA 2nd-year student with a strong foundation in programming languages, currently enhancing skills in Python Full Stack Development. Seeking opportunities to apply my technical skills and grow as a developer in a challenging and innovative environment.</p>
+        </div>
+
+        <div class="section-title">
+            <h2>Education</h2>
+        </div>
+        <div class="section-content">
+            <ul>
+                <li><strong>CBSE Board</strong>, Muscat, Oman – 10th & 12th Grade</li>
+                <li><strong>BCA (Bachelor of Computer Applications)</strong>, Currently pursuing 2nd Year</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            <h2>Skills</h2>
+        </div>
+        <div class="section-content">
+            <ul>
+                <li><strong>Programming Languages:</strong> Python, HTML, CSS, JavaScript</li>
+                <li><strong>Tools & Technologies:</strong> Full Stack Development, Git, SQL</li>
+                <li><strong>Software:</strong> MS Office, VS Code, PyCharm</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            <h2>Courses</h2>
+        </div>
+        <div class="section-content">
+            <ul>
+                <li><strong>Python Short Course</strong> - Completed</li>
+                <li><strong>Python Full Stack Development</strong> - Currently studying at Fiit Institute</li>
+            </ul>
+        </div>
+
+        <div class="section-title">
+            <h2>Hobbies</h2>
+        </div>
+        <div class="section-content">
+            <ul>
+                <li>Listening to music</li>
+                <li>Reading e-books</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
